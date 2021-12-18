@@ -1,29 +1,5 @@
-# heartcore-utils
+# Heartcore Utils
+Various utility functions for TypeScript.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## How to Use
+Download the archive file from latest release and drop the folder (or individual files according to need) into your lib/util folder.
